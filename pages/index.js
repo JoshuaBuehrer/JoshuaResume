@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <Container>
       <Head>
-        <title>Dan's Resume</title>
+        <title>Joshua's Resume</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Body>
